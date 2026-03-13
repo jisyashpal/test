@@ -1,0 +1,29 @@
+ .container{
+    max-width: 1200px;
+    margin: 0 auto;
+ }
+ 
+ header a {
+      color: white;
+      text-decoration: none;
+      margin: 0 10px;
+  }
+
+  .top-header {
+      background-color: #91C6BC;
+      padding: 5px;
+  }
+
+  .socal a {
+      padding: 10px;
+      border: 2px solid gray;
+      border-radius: 10px;
+      background: #E37434;
+      gap: 10px;
+  }
+
+  .sub-title {
+      color: lightcoral;
+      font-weight: 700;
+      border-bottom: 2px solid #0d00ff;
+  }
