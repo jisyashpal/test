@@ -89,7 +89,7 @@
             <div class="container">
                 <div class="row g-4 align-items-center">
                     <div class="col-lg-5 reveal">
-                        <p class="section-tag">Contact</p>
+                        <p class="section-tag">Contact Us</p>
                         <h2 class="section-title">Let us build your next website</h2>
                         <p class="section-text">Tell me your goals and timeline. I will reply with a clear plan, timeline, and budget estimate.</p>
                         <div class="contact-list">
