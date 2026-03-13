@@ -12,6 +12,7 @@
                  <li class="nav-item"><a class="nav-link" href="skills.php">Skills</a></li>
                  <li class="nav-item"><a class="nav-link" href="projects.php">Projects</a></li>
                  <li class="nav-item"><a class="nav-link" href="contact.php">Contact</a></li>
+                 <li class="nav-item"><a class="nav-link" href="strength.php">Strengths</a></li>
                  <li class="nav-item"><a class="nav-link" href="test.php">Test</a></li>
              </ul>
          </div>
