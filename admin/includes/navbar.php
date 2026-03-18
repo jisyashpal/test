@@ -14,7 +14,7 @@
                  <li class="nav-item"><a class="nav-link" href="contact.php">Contact</a></li>
                  <li class="nav-item"><a class="nav-link" href="strength.php">Strengths</a></li>
                  <li class="nav-item"><a class="nav-link" href="test.php">Test</a></li>
-                 <li class="nav-item"><a class="nav-link btn btn-primary text-white" href="./admin/index.php">Admin</a></li>
+                 <li class="nav-item"><a class="nav-link btn btn-primary text-white" href="./admin/index.html">Admin</a></li>
              </ul>
          </div>
      </div>
