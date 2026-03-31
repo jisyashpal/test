@@ -84,7 +84,7 @@
 <body>
     <div class="login-container">
         <h1> <a href="../index.php">Admin Login</a></h1>
-        <form action="action.php" method="POST">
+        <form action="action.php" method="POST" class="form">
             <div class="form-group">
                 <label for="username">Username</label>
                 <input type="text" id="username" name="username" required>

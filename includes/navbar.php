@@ -1,6 +1,6 @@
  <nav class="navbar navbar-expand-lg fixed-top portfolio-navbar" id="mainNav">
      <div class="container">
-         <a class="navbar-brand" href="#home">Aarav<span>Code</span></a>
+         <a class="navbar-brand" href="#home"><?php echo $name; ?><span>Code</span></a>
          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#portfolioNav"
              aria-controls="portfolioNav" aria-expanded="false" aria-label="Toggle navigation">
              <span class="fa-solid fa-bars"></span>

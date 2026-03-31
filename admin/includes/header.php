@@ -1,6 +1,6 @@
 <meta charset="UTF-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-<title><?php echo $pageTitle; ?></title>
+<title><?php echo isset($pageTitle) ? $pageTitle : 'Admin Dashboard'; ?></title>
 
 <link rel="preconnect" href="https://fonts.googleapis.com" />
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
@@ -11,4 +11,4 @@
     crossorigin="anonymous" referrerpolicy="no-referrer" />
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css" />
 <link rel="stylesheet" href="./css/bootstrap.css" />
-<link rel="stylesheet" href="./css/style.css" />
+<link rel="stylesheet" href="./css/admin.css">

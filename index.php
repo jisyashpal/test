@@ -1,5 +1,6 @@
 <?php
-$pageTitle = "coder - Home";
+$pageTitle = "Yash Coder - Home";
+include_once './config/data.php';
 ?>
 <!doctype html>
 <html lang="en">
@@ -27,8 +28,8 @@ $pageTitle = "coder - Home";
                             <a href="#contact" class="btn btn-ghost">Hire Me</a>
                         </div>
                         <div class="hero-meta mt-4">
-                            <span><i class="fa-solid fa-location-dot"></i> Ranchi, India</span>
-                            <span><i class="fa-solid fa-envelope"></i> hello@aaravcode.dev</span>
+                            <span><i class="fa-solid fa-location-dot"></i> <?php echo $address; ?></span>
+                            <span><i class="fa-solid fa-envelope"></i> <?php echo $email; ?></span>
                         </div>
                     </div>
 
