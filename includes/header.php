@@ -12,3 +12,4 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css" />
 <link rel="stylesheet" href="./css/bootstrap.css" />
 <link rel="stylesheet" href="./css/style.css" />
+<?php include_once './config/data.php'; ?>

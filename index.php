@@ -1,7 +1,8 @@
 <?php
 $pageTitle = "Yash Coder - Home";
-include_once './config/data.php';
+echo $_GET['success'] == 1 ? "<script>alert('Signup successful!');</script>" : "";
 ?>
+
 <!doctype html>
 <html lang="en">
 
