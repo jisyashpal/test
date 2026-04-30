@@ -1,5 +1,6 @@
 <?php
 $pageTitle = "Yash Coder - Home";
+$_GET['success'] = isset($_GET['success']) ? $_GET['success'] : 0;
 echo $_GET['success'] == 1 ? "<script>alert('Signup successful!');</script>" : "";
 ?>
 

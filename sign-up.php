@@ -21,7 +21,12 @@ $pageTitle = "test page - test";
                     <div class="col-md-6 ">
                         <div class="card">
                             <div class="card-body">
-                                <form action="admin/action.php" method="POST" class="w-100">
+                                <form action="config/connection.php" method="POST" class="w-100" enctype="multipart/form-data">
+
+                                    <div class="mb-3">
+                                        <label for="username" class="form-label">Image</label>
+                                        <input type="file" class="form-control" id="username" placeholder="Type your username"   name="image" >
+                                    </div>
                                     <div class="mb-3">
                                         <label for="username" class="form-label">Username</label>
                                         <input type="text" class="form-control" id="username" placeholder="Type your username"   name="username" >
